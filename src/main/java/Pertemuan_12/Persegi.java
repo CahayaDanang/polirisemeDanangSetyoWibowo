@@ -15,7 +15,7 @@ public class Persegi extends ObjectGeometri {
     }
     
     public void Jenis_Geometri(String Jenis){
-        System.out.println("Nama : Rifal Ariya Yusuftrian");
+        System.out.println("Nama : Danang Setyo Wibowo");
         System.out.println("Bangun ini termasuk bangun geometri berjenis " + Jenis);
         System.out.println("Memiliki Luas : " + this.Luas);
         System.out.println(" ");
